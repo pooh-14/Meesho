@@ -41,7 +41,7 @@
     /* border: 1px solid red; */
   }
   
-  #pic > img {
+  #pic >a>img{
     width: 100%;
     height: 100%;
   }
