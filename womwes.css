@@ -70,7 +70,7 @@
   }
   
   #two {
-    width: 42.5%;
+    width: 42%;
     height: 100%;
     /* border: 1px solid greenyellow; */
     display: flex;
@@ -104,7 +104,7 @@
   }
   
   #profile {
-    width: 30%;
+    width: 35%;
     /* border: 1px solid brown; */
     display: flex;
     justify-content: space-around;
